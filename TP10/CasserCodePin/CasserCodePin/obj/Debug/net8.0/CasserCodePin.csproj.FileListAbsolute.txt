@@ -1,0 +1,14 @@
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\bin\Debug\net8.0\CasserCodePin.exe
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\bin\Debug\net8.0\CasserCodePin.deps.json
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\bin\Debug\net8.0\CasserCodePin.runtimeconfig.json
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\bin\Debug\net8.0\CasserCodePin.dll
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\bin\Debug\net8.0\CasserCodePin.pdb
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\CasserCodePin.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\CasserCodePin.AssemblyInfoInputs.cache
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\CasserCodePin.AssemblyInfo.cs
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\CasserCodePin.csproj.CoreCompileInputs.cache
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\CasserCodePin.dll
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\refint\CasserCodePin.dll
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\CasserCodePin.pdb
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\CasserCodePin.genruntimeconfig.cache
+D:\BTS Sio\Consneau\TPCyberSecurite\TP10\CasserCodePin\CasserCodePin\obj\Debug\net8.0\ref\CasserCodePin.dll
